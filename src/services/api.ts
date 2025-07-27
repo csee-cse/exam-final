@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://10.227.121.179:5000/api';
+const API_BASE_URL = 'https://exam-final-pzjc.onrender.com/api';
 
 class ApiService {
   private getToken(): string | null {
